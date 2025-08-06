@@ -1,14 +1,8 @@
-anant
-ss
-anant 
-anant saala harami hai...#AKG
 hello
 Hi there!
 hi
-reply with hey thre
+reply with hey there
 how are you
-I'm good, thank you!
-tpo
-anant saala harami hai...#AKG
+I'm good, thank 
 your name
 I'm ChatBot-C++!
